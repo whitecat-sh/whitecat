@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://mrpuffins.github.io/whitecat/"
+baseurl = "https://blog.whitecat.dev"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
