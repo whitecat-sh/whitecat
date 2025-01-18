@@ -4,7 +4,7 @@ description: Description of my future endeavours
 slug: future
 date: 2025-01-07 00:00:00+0000
 categories:
-    - Portfolio
+    - Future
 tags:
     - Myself
 ---

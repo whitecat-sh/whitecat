@@ -3,8 +3,6 @@ title: Hello World
 description: Welcome and general description of the website.
 slug: whoami
 date: 2025-01-06 00:00:00+0000
-categories:
-    - Portfolio
 ---
 
 I'm Charles Mclean, known in digital spaces as WhiteCat, an emerging cybersecurity professional with a deep passion for networking and a growing expertise in programming. This digital platform serves as my professional canvas—a comprehensive showcase of my technical journey, innovative projects, and hard-earned insights.
