@@ -1,5 +1,5 @@
 ---
-title: My Past
+title: My Past Experiences
 description: Short Description of my past experiences
 slug: past
 date: 2025-01-18 00:00:00+0000
