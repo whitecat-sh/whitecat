@@ -6,7 +6,9 @@ date: 2025-01-22 00:00:00+0000
 ---
 
 
-***This is for education purposes only, use at your own risk***
+***This is for education purposes only, use at your own risk******This is for education purposes only, use at your own risk***
+
+## This guide will speak about how to bypass almost all firewalls with a stable ssh tunnel (with optional domain name and pub-key authentication)
 
 ## This guide will speak about how to bypass almost all firewalls with a stable ssh tunnel (with optional domain name and pub-key authentication)
 
