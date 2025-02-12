@@ -1,7 +1,7 @@
 ---
-title: School Firewall Bypass
-description: How to bypass IDS and Deep Packet Filters on almost any school firewall.
-slug: school-firewall
+title: Firewall Bypass
+description: How to bypass IDS and Deep Packet Filters on almost any firewall.
+slug: firewall-bypass
 date: 2025-01-22 00:00:00+0000
 ---
 
@@ -12,15 +12,15 @@ date: 2025-01-22 00:00:00+0000
 
 For this to work you will need:
 
-1. A remote ssh server (can be linux, windows, android, whatever, as long as you have a ssh server that is connected to another network than the school) **I STRONGLY RECOMMEND USING A VM**
+1. A remote ssh server (can be linux, windows, android, whatever, as long as you have a ssh server that is connected to another network than the target) **I STRONGLY RECOMMEND USING A VM**
 2. Port forwarding / access to the router's configuration page. **I RECOMMEND A DMZ**
-3. A school / firewall-ed internet connection.
+3. A firewalled internet connection.
 4. A ssh client installed on your device capable of doing ssh tunneling.
 5. Some minimal linux / networking knowledge
 6. Common sense
 7. Optionally: a domain name
 
-#### First, you need to know the outgoing port and protocol allowed by your school (in my case it was *22* with the *ssh* protocol allowed). This will most likely be the hardest and most complicated part to do beforehand. I will not explain how to do this as it is out of scope and not part of this guide.
+#### First, you need to know the outgoing port and protocol allowed by your target network (in my case it was *22* with the *ssh* protocol allowed). This will most likely be the hardest and most complicated part to do beforehand. I will not explain how to do this as it is out of scope and not part of this guide.
 
 Then, you can do the following on your remote (personal computer / vm / phone) ssh server. I will be using linux as the OS of the server and Debian as the distro.
 
@@ -75,7 +75,7 @@ On the client, now simply connect in this fashion:
 
 Login using your username and password as you normally would on your server.
 
-And there you have it, a ssh tunnel from your school to your remote server, essentially bypassing every school restriction/firewall they would have in place. 
+And there you have it, a ssh tunnel from your target's network to your remote server, essentially bypassing every restriction/firewall they would have in place.
 
 # (OPTIONAL) More advanced configuration with a domain name and pub-key authentication.
 
