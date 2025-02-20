@@ -2,7 +2,7 @@
 title: My Future
 description: Description of my future projects
 slug: future
-date: 2025-01-07 00:00:00+0000
+date: 2025-02-07 00:00:00+0000
 categories:
     - Future
 tags:

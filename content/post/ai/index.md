@@ -2,7 +2,7 @@
 title: WhiteCat's AI
 description: The local, offline and containerised ai project.
 slug: ai
-date: 2025-01-07 00:00:00+0000
+date: 2025-02-20 00:00:00+0000
 categories:
     - AI
 tags:
