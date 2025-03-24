@@ -1,6 +1,6 @@
 ---
 title: Nova PC
-description: Detailed description of the Nova PC conception.
+description: Detailed description of what was Nova PC.
 slug: nova-pc
 date: 2025-01-06 00:00:00+0000
 categories:
