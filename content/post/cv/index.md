@@ -9,11 +9,18 @@ tags:
     - CV
 weight: 1
 ---
+<div style="text-align: center;">
+
+# [DOWNLOAD CV](2025.pdf)
+
+</div>
+
 
 # Charles McLean | CPTS
 
-- info@whitecat.dev
+- [info@whitecat.dev](mailto:info@whitecat.dev)
 - [LinkedIn](https://www.linkedin.com/in/charlesmcleansec/)
+- [514-219-6806](tel:+1-514-219-6806)
 
 ## Work Experience
 
