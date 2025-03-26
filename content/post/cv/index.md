@@ -39,7 +39,7 @@ weight: 1
 - Design and implementation of complete web solutions, including frontend and backend development  
 - Entrepreneurial leadership in creating and growing the company since its founding
 
-### Bidon Taverne Culinaire | Server
+### Bidon Taverne Culinaire | Busboy
 *October 2023 - July 2024, Saint-Lambert*
 - High-quality customer service in an upscale culinary environment
 
