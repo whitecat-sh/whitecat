@@ -1,1 +1,1 @@
-tips and tricks website using hugo and the Stack theme
+personal website
