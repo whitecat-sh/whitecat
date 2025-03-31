@@ -3,8 +3,6 @@ title: Resume/CV
 description: Curriculum Vitae 
 slug: cv
 date: 2025-01-06 00:00:00+0000
-categories:
-    - Portfolio
 tags:
     - CV
 weight: 1
