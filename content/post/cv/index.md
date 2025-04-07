@@ -18,7 +18,7 @@ weight: 1
 
 ## **Education & Certifications**
 
-### **Cégep de Saint-Hyacinthe** — *DEC Computer Technology: Networks and Cybersecurity*
+### **Cégep de Saint-Hyacinthe** - *DEC Computer Technology: Networks and Cybersecurity*
 *Hack The Box Academy | Jun. 2023 – May 2024 (Online)*  
 - Achieved advanced-level certification in penetration testing  
 - Successfully completed the final practical examination on May 29, 2024  
@@ -30,8 +30,6 @@ weight: 1
 
 ### **Champlain College Saint-Lambert** - *Computer Science Technology*  
 *2022 – 2023, Saint-Lambert*
-
----
 
 ## **Professional Experience**
 
