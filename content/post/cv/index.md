@@ -18,25 +18,25 @@ weight: 1
 
 ## **Education & Certifications**
 
-### **CPTS – Certified Penetration Testing Specialist**  
+### **Cégep de Saint-Hyacinthe** — *DEC Computer Technology: Networks and Cybersecurity*
 *Hack The Box Academy | Jun. 2023 – May 2024 (Online)*  
 - Achieved advanced-level certification in penetration testing  
 - Successfully completed the final practical examination on May 29, 2024  
 
-### **Cégep de Saint-Hyacinthe** — *DEC, Computer Technology: Networks and Cybersecurity*  
-**2023 – Present, Saint-Hyacinthe**  
+### **Cégep de Saint-Hyacinthe** - *DEC Computer Technology: Networks and Cybersecurity* 
+*2023 – Present, Saint-Hyacinthe*  
 - Maintaining an overall academic average of 85%  
 - Recognized for excellence in core concentration courses  
 
-### **Champlain College Saint-Lambert** — *Computer Science Technology*  
-**2022 – 2023, Saint-Lambert**
+### **Champlain College Saint-Lambert** - *Computer Science Technology*  
+*2022 – 2023, Saint-Lambert*
 
 ---
 
 ## **Professional Experience**
 
 ### **Cégep de Saint-Hyacinthe** — *IT Technical Support*  
-**2024 – Present**  
+*2024 – Present, Saint-Hyacinthe*
 - Provided in-person technical support to students and faculty within the institution  
 - Managed support tickets and prioritized issue resolution  
 - Performed hardware diagnostics and repairs  
@@ -44,11 +44,11 @@ weight: 1
 - Supported both academic and extracurricular technology-related projects
 
 ### **NovaPC** — *Founder*  
-**2021 – 2024**  
+*2021 – 2024*
 - Built custom PC solutions tailored to individual client requirements  
 - Developed full-stack web applications, overseeing both frontend and backend components  
-- Exercised entrepreneurial leadership in founding and expanding the business  
+- Exercised entrepreneurial leadership in founding and expanding the business   
 
-### **Cycle et Sports Castonguay** — *Bike Mechanic*  
-**Apr. 2021 – Jun. 2022 & Apr. 2023 – Jul. 2024, Saint-Lambert**  
-- Specialized in technical diagnostics and bicycle repair  
+### **Cycle et Sports Castonguay** — *Bike Mechanic* 
+*2021 – 2022 & 2023 – 2024, Saint-Lambert*  
+- Specialized in technical diagnostics and bicycle repair
