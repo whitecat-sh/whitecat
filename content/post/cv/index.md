@@ -13,49 +13,42 @@ weight: 1
 
 </div>
 
-# Charles McLean | CPTS
-
-- [info@whitecat.dev](mailto:info@whitecat.dev)
-- [LinkedIn](https://www.linkedin.com/in/charlesmcleansec/)
-- [514-219-6806](tel:+1-514-219-6806)
-
-## Work Experience
-
-### Cégep de Saint-Hyacinthe | IT Tech Support
-*2024-Present*
-- IT Technical support offered by students for students and teachers on premise at the school
-- Management of tickets
-- Hardware diagnosis and repairs
-- Software debugging, help or tutoring
-- General assistance with teacher and student projects.
+### [info@whitecat.dev](mailto:info@whitecat.dev) • [LinkedIn](https://www.linkedin.com/in/charlesmcleansec/) • [514-219-6806](tel:+1-514-219-6806)
 
 
-### NovaPC | Founder
-*2021-2024*
-- Creating custom computers according to specific client needs
-- Design and implementation of complete web solutions, including frontend and backend development  
-- Entrepreneurial leadership in creating and growing the company since its founding
+## **Education & Certifications**
 
-### Cycle et Sports Castonguay | Bike Mechanic
-*April 2021 - June 2022, April 2023 - July 2024, Saint-Lambert*
-- Excellence in technical diagnosis and bike repair while maintaining clear communication with customers
-- Sales optimization through in-depth product knowledge and exemplary customer service
-- Consistent demonstration of professionalism and maintenance of a welcoming atmosphere
+### **CPTS – Certified Penetration Testing Specialist**  
+*Hack The Box Academy | Jun. 2023 – May 2024 (Online)*  
+- Achieved advanced-level certification in penetration testing  
+- Successfully completed the final practical examination on May 29, 2024  
 
-## Education
+### **Cégep de Saint-Hyacinthe** — *DEC, Computer Technology: Networks and Cybersecurity*  
+**2023 – Present, Saint-Hyacinthe**  
+- Maintaining an overall academic average of 85%  
+- Recognized for excellence in core concentration courses  
 
-### CPTS | Certified Penetration Testing Specialist
-*June 2023 - May 2024, Online*
-- Advanced pentesting certification obtained through HackTheBox
-- Skills validation through successful completion of final exam on May 29, 2024
+### **Champlain College Saint-Lambert** — *Computer Science Technology*  
+**2022 – 2023, Saint-Lambert**
 
-### Cégep de Saint-Hyacinthe | DEC Computer Technology: Networks and Cybersecurity
-*2023 - Present, Saint-Hyacinthe*
-- Exceptional academic performance with an overall average of 85%
+---
 
-### Champlain College Saint-Lambert | Computer Science Technology
-*2022 - 2023, Saint-Lambert*
+## **Professional Experience**
 
-### Collège Notre-Dame-de-Lourdes | IB Enriched High School Diploma
-*2017 - 2022, Saint-Lambert*
-- Specialization in sciences with focus on chemistry, physics, and advanced mathematics
+### **Cégep de Saint-Hyacinthe** — *IT Technical Support*  
+**2024 – Present**  
+- Provided in-person technical support to students and faculty within the institution  
+- Managed support tickets and prioritized issue resolution  
+- Performed hardware diagnostics and repairs  
+- Assisted with software troubleshooting and offered basic tutoring  
+- Supported both academic and extracurricular technology-related projects
+
+### **NovaPC** — *Founder*  
+**2021 – 2024**  
+- Built custom PC solutions tailored to individual client requirements  
+- Developed full-stack web applications, overseeing both frontend and backend components  
+- Exercised entrepreneurial leadership in founding and expanding the business  
+
+### **Cycle et Sports Castonguay** — *Bike Mechanic*  
+**Apr. 2021 – Jun. 2022 & Apr. 2023 – Jul. 2024, Saint-Lambert**  
+- Specialized in technical diagnostics and bicycle repair  
