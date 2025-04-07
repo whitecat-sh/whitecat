@@ -18,8 +18,8 @@ weight: 1
 
 ## **Education & Certifications**
 
-### **Cégep de Saint-Hyacinthe** - *DEC Computer Technology: Networks and Cybersecurity*
-*Hack The Box Academy | Jun. 2023 – May 2024 (Online)*  
+### **CPTS - Certified Penetration Testing Specialist**  
+*Hack The Box Academy | Jun. 2023 – May 2024 (Online)*
 - Achieved advanced-level certification in penetration testing  
 - Successfully completed the final practical examination on May 29, 2024  
 
