@@ -13,7 +13,6 @@ weight: 1
 
 </div>
 
-
 # Charles McLean | CPTS
 
 - [info@whitecat.dev](mailto:info@whitecat.dev)
@@ -36,10 +35,6 @@ weight: 1
 - Creating custom computers according to specific client needs
 - Design and implementation of complete web solutions, including frontend and backend development  
 - Entrepreneurial leadership in creating and growing the company since its founding
-
-### Bidon Taverne Culinaire | Busboy
-*October 2023 - July 2024, Saint-Lambert*
-- High-quality customer service in an upscale culinary environment
 
 ### Cycle et Sports Castonguay | Bike Mechanic
 *April 2021 - June 2022, April 2023 - July 2024, Saint-Lambert*
