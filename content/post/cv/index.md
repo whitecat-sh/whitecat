@@ -29,9 +29,6 @@ weight: 1
 - Recognized for academic excellence with consistently top class averages in most core courses.
 - Active early participant in the school's Capture The Flag (CTF) cybersecurity competitions.
 
-### **Computer Science Technology** | Champlain College Saint-Lambert
-*2022 – 2023, Saint-Lambert*
-
 ## **Competitions and other Extra-Curriculum Activities**
 
 - **CyberConference *2025***
