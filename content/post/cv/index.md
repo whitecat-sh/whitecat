@@ -58,7 +58,6 @@ weight: 1
 ### **NovaPC** | *Founder* [(learnmore)](https://whitecat.dev/p/nova-pc/)
 *2021 – 2024*
 - Built and delivered custom PC solutions, with configurations optimized for gaming, content creation, and professional use.
-- Developed full-stack web applications using PHP, JavaScript, and MySQL, overseeing both frontend and backend components.
 - Exercised entrepreneurial leadership in founding and expanding the business.
 - Implemented secure e-commerce solution for online orders and inventory management.
 
