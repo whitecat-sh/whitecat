@@ -7,8 +7,8 @@ weight: 2
 ---
 
 - [LinkedIn](https://www.linkedin.com/in/charlesmcleansec/)
-- [TryHackMe](https://tryhackme.com/p/whitecat.dev)
+- [TryHackMe](https://tryhackme.com/p/whitecat.sh)
 - [HackTheBox](https://app.hackthebox.com/profile/1490640)
 - [HackerOne](https://hackerone.com/whitecat-dev)
-- [GitHub](https://github.com/whitecat-dev)
-- [GitLab](https://gitlab.com/whitecat.dev)
+- [GitHub](https://github.com/whitecat-sh)
+- [GitLab](https://gitlab.com/whitecat.sh)
