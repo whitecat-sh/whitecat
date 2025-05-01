@@ -1,7 +1,7 @@
 ---
 title: Resume/CV
-description: Curriculum Vitae 
-slug: cv
+description: Curriculum Vitae (English)
+slug: cv-en
 date: 2025-01-06 00:00:00+0000
 tags:
     - CV
@@ -9,11 +9,11 @@ weight: 1
 ---
 <div style="text-align: center;">
 
-# [DOWNLOAD CV](CV-Charles_Mclean-2025.pdf)
+# [DOWNLOAD CV](CV-Charles_Mclean-2025-EN.pdf)
 
 </div>
 
-### [info@whitecat.dev](mailto:info@whitecat.dev) • [LinkedIn](https://www.linkedin.com/in/charlesmcleansec/) • [514-219-6806](tel:+1-514-219-6806)
+### [info@whitecat.sh](mailto:info@whitecat.sh) • [LinkedIn](https://www.linkedin.com/in/charlesmcleansec/) • [514-219-6806](tel:+1-514-219-6806)
 
 # **Certifications**
 
@@ -41,7 +41,7 @@ weight: 1
 ## **Personal projects**
 
 - Co-Author of a WiFi MAC address de-anonymisation and GPS mapping project including a NoSQL database and online PHP web interface.
-- Personal Linux and Docker Home-Lab including a game hosting service for individuals [(learnmore)](https://whitecat.dev/p/nova-pc/) and virtualized security testing environments.
+- Personal Linux and Docker Home-Lab including a game hosting service for individuals and virtualized security testing environments.
 - Various bash scripts and automation tools developed for efficient system management and security testing, including Docker container auto-update utilities, custom-built Intrusion Detection System (IDS), specialized CTF challenge scripts, and other security-focused utilities.
 
 ## **Professional Experience**
@@ -52,7 +52,7 @@ weight: 1
 - Perform hardware diagnostics and repairs 
 - Support both academic and extracurricular technology-related projects.
 
-### **NovaPC** | *Founder* [(learnmore)](https://whitecat.dev/p/nova-pc/)
+### **NovaPC** | *Founder* [(learnmore)](https://whitecat.sh/p/nova-pc/)
 *2021 – 2024*
 - Built and delivered custom PC solutions, with configurations optimized for gaming, content creation, and professional use.
 - Exercised entrepreneurial leadership in founding and expanding the business.
