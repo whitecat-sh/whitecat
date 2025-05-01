@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nova PC on Charles Mclean</title><link>https://blog.whitecat.dev/tags/nova-pc/</link><description>Recent content in Nova PC on Charles Mclean</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.whitecat.dev/tags/nova-pc/index.xml" rel="self" type="application/rss+xml"/><item><title>Nova PC</title><link>https://blog.whitecat.dev/p/nova-pc/</link><pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate><guid>https://blog.whitecat.dev/p/nova-pc/</guid><description>&lt;h1 id="nova-pc">Nova PC
+&lt;/h1>&lt;h2 id="what-was-nova-pc">What was Nova PC?
+&lt;/h2>&lt;p>Nova PC first started out as a small 3-man business focusing mainly on custom PC building services and put a name on my own &amp;ldquo;on the side&amp;rdquo; technical support business. Our custom PC business mainly was a website where people could write us an email (to have a more detailed explanation of their build) or use the built-in Custom Computer Configurator based on WordPress (it was at the time the most cost-efficient and rapid option) that I myself set up entirely. I also had a Facebook profile where people could contact me directly to have their tech issues fixed up by me in a matter of hours. I offered an at-home technical support service, which at the time was undercutting the other companies by a MILE in terms of cost for the client.
+After this &lt;em>phase&lt;/em> of Nova PC came the game server hosting endeavors.
+&lt;img src="https://blog.whitecat.dev/p/nova-pc/image.png"
+width="2208"
+height="1186"
+srcset="https://blog.whitecat.dev/p/nova-pc/image_hu_8a6b7cb4e320a07d.png 480w, https://blog.whitecat.dev/p/nova-pc/image_hu_972a1953caebcfbb.png 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="186"
+data-flex-basis="446px"
+>&lt;/p>
+&lt;h2 id="playstrandednet">PlayStranded.net
+&lt;/h2>&lt;p>I had a Dell PowerEdge R620 which I used, at the time, as a personal homelab. Then came the idea to reuse the same infrastructure to make a profit out of it. This server had enough resources to run 3-4 servers of the game named Rust (at full capacity). I would name this branch of Nova PC &amp;ldquo;PlayStranded.net&amp;rdquo;. This custom-made game server was based on LinuxGSM for simplicity and ease of use with the capabilities I had at the time. These servers had plugins and mods made to enhance the Quality of Life of the players overall while playing in these servers. It took us about a week to set up everything.&lt;/p>
+&lt;p>&lt;img src="https://blog.whitecat.dev/p/nova-pc/image2.png"
+width="1616"
+height="1482"
+srcset="https://blog.whitecat.dev/p/nova-pc/image2_hu_1bd9bd71c91b2e94.png 480w, https://blog.whitecat.dev/p/nova-pc/image2_hu_28aae0ca1337c2d.png 1024w"
+loading="lazy"
+alt="Image 2"
+class="gallery-image"
+data-flex-grow="109"
+data-flex-basis="261px"
+>&lt;/p>
+&lt;h2 id="game-hosting">Game Hosting
+&lt;/h2>&lt;p>Then came the time to change up the Nova PC sector of activities again. I changed from a Dell PowerEdge R620 to a newer and better Cisco UCS M4.
+The game plan was to use this new server to offer a Game Server Hosting service for games such as Minecraft and similar titles. It was mostly built off of Blesta (and Stripe) for billing and user management and Pterodactyl for the actual Hosting Service. This enhanced my knowledge of Docker and led me to put everything I had in Docker containers, further enhancing my understanding of real-world technologies and virtualization techniques used in companies.&lt;/p>
+&lt;p>&lt;img src="https://blog.whitecat.dev/p/nova-pc/image3.svg"
+loading="lazy"
+alt="Image 3"
+>&lt;/p>
+&lt;h2 id="the-closure-of-nova-pc-entirely">The Closure of Nova PC entirely.
+&lt;/h2>&lt;p>For now, Nova PC is closed indefinitely. I am currently pursuing my studies to achieve a Baccalaureate in Computer Science with the Cybersecurity specialization, and thus most of my focus is on that.&lt;/p></description></item></channel></rss>
