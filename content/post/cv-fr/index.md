@@ -2,7 +2,7 @@
 title: Resume/CV
 description: Curriculum Vitae (Français)
 slug: cv-fr
-date: 2025-01-06 00:00:00+0000
+date: 2025-05-01 00:00:00+0000
 tags:
     - CV
 weight: 1
