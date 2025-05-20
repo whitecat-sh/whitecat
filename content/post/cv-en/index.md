@@ -31,6 +31,7 @@ weight: 1
 
 ## **Competitions and other Extra-Curriculum Activities**
 
+- **NorthSec (CTF) *2025***
 - **3rd place | CTF intercollégial du Cégep de Bois-de-Boulogne *2025***
 - **CyberConference *2025***
 - **TryHackMe Hackfinity (CTF) *2025***
